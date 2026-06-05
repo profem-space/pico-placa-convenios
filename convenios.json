@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "aliado": "Serviteca El Reducto",
+    "beneficio": "15% de Descuento en Alineación y Balanceo presentando esta App",
+    "emoji": "🔧",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "aliado": "Aseguradora Alfa",
+    "beneficio": "Bono de $50.000 COP en la renovación de tu SOAT",
+    "emoji": "🛡️",
+    "activo": true
+  }
+]
