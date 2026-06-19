@@ -2,19 +2,19 @@
   {
     "aliado": "Terpel",
     "beneficio": "10% de descuento en combustible los martes",
-    "emoji": "⛽"
+    "emoji": "⛽",
     "link": "https://www.terpel.com/"
   },
   {
     "aliado": "Aseguradora Solidaria",
     "beneficio": "Póliza todo riesgo con tarifa preferencial",
-    "emoji": "🛡️"
+    "emoji": "🛡️",
     "link": "https://aseguradorasolidaria.com.co/"
   },
   {
     "aliado": "Finca La Ermita",
     "beneficio": "15% de descuento en pasadía familiar de recreación",
-    "emoji": "🏊"
+    "emoji": "🏊",
     "link": "https://maps.app.goo.gl/EsWwjSAZAP7z8kQW7"
   }
 ]
