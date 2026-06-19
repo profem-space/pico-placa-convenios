@@ -1,16 +1,17 @@
 [
   {
-    "id": 1,
-    "aliado": "Serviteca El Reducto",
-    "beneficio": "15% de Descuento en Alineación y Balanceo presentando esta App",
-    "emoji": "🔧",
-    "activo": true
+    "aliado": "Terpel",
+    "beneficio": "10% de descuento en combustible los martes",
+    "emoji": "⛽"
   },
   {
-    "id": 2,
-    "aliado": "Aseguradora Alfa",
-    "beneficio": "Bono de $50.000 COP en la renovación de tu SOAT",
-    "emoji": "🛡️",
-    "activo": true
+    "aliado": "Aseguradora Solidaria",
+    "beneficio": "Póliza todo riesgo con tarifa preferencial",
+    "emoji": "🛡️"
+  },
+  {
+    "aliado": "Finca La Ermita",
+    "beneficio": "15% de descuento en pasadía familiar de recreación",
+    "emoji": "🏊"
   }
 ]
