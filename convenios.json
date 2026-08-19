@@ -1,15 +1,14 @@
 [
   {
-        "aliado": "Finca La Ermita",
+    "aliado": "Finca La Ermita",
     "beneficio": "10% de descuento en pasadía familiar de recreación",
     "emoji": "🏊",
-    "link": "https://www.google.com/maps/search/?api=1&query=4.913140,-74.419381"
-    
+    "link": "https://www.facebook.com/sasaimafincalaermita?locale=es_LA"
   },
   {
 "aliado": "Metalmencánicos Villamil",
     "beneficio": "10% de descuento",
-    "emoji": "🏊",
+    "emoji": "🛠️",
     "link": "https://www.facebook.com/metalmecanicos.villamilltda?locale=es_LA"
   }
 ]
